@@ -5,4 +5,5 @@
 * CSS
 * JS
 * JQuery
-* Link to view [https://antimage-stack.github.io/Venom2/]
+
+Или можно просто вставить ссылку в квадратные скобки []
